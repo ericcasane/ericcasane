@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8000&width=435&lines=A+passionate+developer+from+Spain"/>
 </p>
 
-- 🔭 I’m currently working on **Lab1_EricCasane-DavidPujol**
+- 🔭 Student of the Degree in Computer Engineering of Management and Information Systems at Tecnocampus
 
-- 🤝 I’m looking for help with **Python**
+- 🧑‍💻 I’m currently working on **Lab1_EricCasane-DavidPujol**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Java**
 
