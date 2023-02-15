@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8000&width=435&lines=A+passionate+developer+from+Spain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8000&width=435&lines=A+passionate+developer+from+Spain"/>
 </p>
-
-<h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on **Lab1_EricCasane-DavidPujol**
 
