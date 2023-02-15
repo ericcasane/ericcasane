@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Hi 👋, I'm Eric Casañé</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8000&width=435&lines=A+passionate+developer+from+Spain"/>
